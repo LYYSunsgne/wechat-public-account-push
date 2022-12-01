@@ -18,8 +18,8 @@ const USER_CONFIG = {
     {
       name: '宝贝',      // 想要发送的人的名字
       oL7K45sfvtfKFVxP9Nwg88X2NTUw: '',      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-	    3Yv1U2umvRHkmys7aKOD4noA1AN0RVRnU9KuxQ_nfr0: '',      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      horoscopeDate: '12-1',      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      3Yv1U2umvRHkmys7aKOD4noA1AN0RVRnU9KuxQ_nfr0: '',      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      horoscopeDate: '12-01',      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
