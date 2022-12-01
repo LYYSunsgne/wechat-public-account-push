@@ -5,7 +5,7 @@
  * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
-const USER_CONFIG = {
+const oL7K45sfvtfKFVxP9Nwg88X2NTUw = {
 
   // 使用微信测试号：wx35ed57f500c82ab2: '',
 
