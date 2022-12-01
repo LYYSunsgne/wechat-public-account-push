@@ -7,14 +7,12 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  // 使用微信测试号：wx35ed57f500c82ab2: '',
 
-  // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  // 使用微信测试号：wx35ed57f500c82ab2: '',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '北京',
+  CITY: '昌平',
 
   USERS: [
     {
